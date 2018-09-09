@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "lib": [ "dom", "es5", "es2015.promise" ],
+    "target": "es5",//编译之后生成的JavaScript文件需要遵循的标准。有三个候选项：es3、es5、es2015。
+    // "target": "es6",
+    "experimentalDecorators": true,
+    "skipLibCheck": true,
+    // "outDir": "build/src",
+    "outDir": "assets/Script",
+    "sourceMap": true,////编译时是否生成对应的source map文件。这个文件主要用于前端调试。当前端js文件被压缩引用后，出错时可借助同名的source map文件查找源文件中错误位置
+    "allowJs": true,//ts,js混编
+    "allowSyntheticDefaultImports": true,
+    "pretty": true,
+    "noEmitHelpers": true,
+    "removeComments": true, //编译生成的JavaScript文件是否移除注释。
+    // "noImplicitAny": false,
+  },
+  "exclude": [
+    "node_modules",
+    "library",
+    "local",
+    "temp",
+    "build",
+    "settings"
+  ],
+  "include": [
+    "./creator.d.ts",
+    // "assets/src/**/*"
+    "typescript/**/*"
+  ]
+
+}

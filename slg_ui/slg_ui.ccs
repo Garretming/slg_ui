@@ -1,0 +1,10 @@
+<Solution>
+  <PropertyGroup Name="slg_ui" Version="2.0.8.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

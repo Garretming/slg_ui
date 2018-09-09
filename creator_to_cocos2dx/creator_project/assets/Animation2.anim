@@ -1,0 +1,133 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Animation2",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 8.366666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            194,
+            536
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 1.8,
+          "value": [
+            724,
+            502
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 2.9833333333333334,
+          "value": [
+            807,
+            237
+          ]
+        },
+        {
+          "frame": 4.516666666666667,
+          "value": [
+            434,
+            110
+          ]
+        },
+        {
+          "frame": 6.416666666666667,
+          "value": [
+            126,
+            338
+          ]
+        },
+        {
+          "frame": 8.366666666666667,
+          "value": [
+            176,
+            513
+          ]
+        }
+      ],
+      "rotation": [
+        {
+          "frame": 1.8166666666666667,
+          "value": 90
+        },
+        {
+          "frame": 2.9833333333333334,
+          "value": 180
+        },
+        {
+          "frame": 4.5,
+          "value": 270
+        },
+        {
+          "frame": 5.433333333333334,
+          "value": 310
+        },
+        {
+          "frame": 8.016666666666667,
+          "value": 0
+        },
+        {
+          "frame": 8.016666666666667,
+          "value": 310
+        },
+        {
+          "frame": 8.233333333333333,
+          "value": 310
+        }
+      ],
+      "color": [
+        {
+          "frame": 2.9833333333333334,
+          "value": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          }
+        },
+        {
+          "frame": 4.55,
+          "value": {
+            "__type__": "cc.Color",
+            "r": 71,
+            "g": 0,
+            "b": 255,
+            "a": 255
+          }
+        },
+        {
+          "frame": 7.45,
+          "value": {
+            "__type__": "cc.Color",
+            "r": 0,
+            "g": 255,
+            "b": 41,
+            "a": 255
+          }
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 1.4,
+          "value": 0
+        },
+        {
+          "frame": 2.3,
+          "value": 255
+        }
+      ]
+    }
+  },
+  "events": []
+}
